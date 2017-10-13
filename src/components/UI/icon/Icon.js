@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 const availableIcons = [
   // Font Awesome Editor Icons
   'bold', 'italic', 'list', 'font', 'text-height', 'text-width', 'align-left', 'align-center', 'align-right',
